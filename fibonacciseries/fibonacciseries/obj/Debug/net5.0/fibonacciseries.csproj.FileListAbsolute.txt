@@ -1,0 +1,15 @@
+C:\Users\Ganesh Gaikwad\source\repos\fibonacciseries\fibonacciseries\bin\Debug\net5.0\fibonacciseries.exe
+C:\Users\Ganesh Gaikwad\source\repos\fibonacciseries\fibonacciseries\bin\Debug\net5.0\fibonacciseries.deps.json
+C:\Users\Ganesh Gaikwad\source\repos\fibonacciseries\fibonacciseries\bin\Debug\net5.0\fibonacciseries.runtimeconfig.json
+C:\Users\Ganesh Gaikwad\source\repos\fibonacciseries\fibonacciseries\bin\Debug\net5.0\fibonacciseries.runtimeconfig.dev.json
+C:\Users\Ganesh Gaikwad\source\repos\fibonacciseries\fibonacciseries\bin\Debug\net5.0\fibonacciseries.dll
+C:\Users\Ganesh Gaikwad\source\repos\fibonacciseries\fibonacciseries\bin\Debug\net5.0\ref\fibonacciseries.dll
+C:\Users\Ganesh Gaikwad\source\repos\fibonacciseries\fibonacciseries\bin\Debug\net5.0\fibonacciseries.pdb
+C:\Users\Ganesh Gaikwad\source\repos\fibonacciseries\fibonacciseries\obj\Debug\net5.0\fibonacciseries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh Gaikwad\source\repos\fibonacciseries\fibonacciseries\obj\Debug\net5.0\fibonacciseries.AssemblyInfoInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\fibonacciseries\fibonacciseries\obj\Debug\net5.0\fibonacciseries.AssemblyInfo.cs
+C:\Users\Ganesh Gaikwad\source\repos\fibonacciseries\fibonacciseries\obj\Debug\net5.0\fibonacciseries.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\fibonacciseries\fibonacciseries\obj\Debug\net5.0\fibonacciseries.dll
+C:\Users\Ganesh Gaikwad\source\repos\fibonacciseries\fibonacciseries\obj\Debug\net5.0\ref\fibonacciseries.dll
+C:\Users\Ganesh Gaikwad\source\repos\fibonacciseries\fibonacciseries\obj\Debug\net5.0\fibonacciseries.pdb
+C:\Users\Ganesh Gaikwad\source\repos\fibonacciseries\fibonacciseries\obj\Debug\net5.0\fibonacciseries.genruntimeconfig.cache
