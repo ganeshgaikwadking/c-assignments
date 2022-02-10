@@ -1,0 +1,16 @@
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\Rectangleexample\bin\Debug\net5.0\Rectangleexample.exe
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\Rectangleexample\bin\Debug\net5.0\Rectangleexample.deps.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\Rectangleexample\bin\Debug\net5.0\Rectangleexample.runtimeconfig.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\Rectangleexample\bin\Debug\net5.0\Rectangleexample.runtimeconfig.dev.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\Rectangleexample\bin\Debug\net5.0\Rectangleexample.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\Rectangleexample\bin\Debug\net5.0\ref\Rectangleexample.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\Rectangleexample\bin\Debug\net5.0\Rectangleexample.pdb
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\Rectangleexample\obj\Debug\net5.0\Rectangleexample.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\Rectangleexample\obj\Debug\net5.0\Rectangleexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\Rectangleexample\obj\Debug\net5.0\Rectangleexample.AssemblyInfoInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\Rectangleexample\obj\Debug\net5.0\Rectangleexample.AssemblyInfo.cs
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\Rectangleexample\obj\Debug\net5.0\Rectangleexample.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\Rectangleexample\obj\Debug\net5.0\Rectangleexample.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\Rectangleexample\obj\Debug\net5.0\ref\Rectangleexample.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\Rectangleexample\obj\Debug\net5.0\Rectangleexample.pdb
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\Rectangleexample\obj\Debug\net5.0\Rectangleexample.genruntimeconfig.cache

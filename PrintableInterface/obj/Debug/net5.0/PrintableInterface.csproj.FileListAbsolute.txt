@@ -1,0 +1,16 @@
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\PrintableInterface\bin\Debug\net5.0\PrintableInterface.exe
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\PrintableInterface\bin\Debug\net5.0\PrintableInterface.deps.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\PrintableInterface\bin\Debug\net5.0\PrintableInterface.runtimeconfig.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\PrintableInterface\bin\Debug\net5.0\PrintableInterface.runtimeconfig.dev.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\PrintableInterface\bin\Debug\net5.0\PrintableInterface.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\PrintableInterface\bin\Debug\net5.0\ref\PrintableInterface.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\PrintableInterface\bin\Debug\net5.0\PrintableInterface.pdb
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\PrintableInterface\obj\Debug\net5.0\PrintableInterface.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\PrintableInterface\obj\Debug\net5.0\PrintableInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\PrintableInterface\obj\Debug\net5.0\PrintableInterface.AssemblyInfoInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\PrintableInterface\obj\Debug\net5.0\PrintableInterface.AssemblyInfo.cs
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\PrintableInterface\obj\Debug\net5.0\PrintableInterface.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\PrintableInterface\obj\Debug\net5.0\PrintableInterface.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\PrintableInterface\obj\Debug\net5.0\ref\PrintableInterface.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\PrintableInterface\obj\Debug\net5.0\PrintableInterface.pdb
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\PrintableInterface\obj\Debug\net5.0\PrintableInterface.genruntimeconfig.cache
