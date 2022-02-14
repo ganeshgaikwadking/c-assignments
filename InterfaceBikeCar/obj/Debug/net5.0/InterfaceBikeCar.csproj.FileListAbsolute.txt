@@ -1,0 +1,16 @@
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\InterfaceBikeCar\bin\Debug\net5.0\InterfaceBikeCar.exe
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\InterfaceBikeCar\bin\Debug\net5.0\InterfaceBikeCar.deps.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\InterfaceBikeCar\bin\Debug\net5.0\InterfaceBikeCar.runtimeconfig.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\InterfaceBikeCar\bin\Debug\net5.0\InterfaceBikeCar.runtimeconfig.dev.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\InterfaceBikeCar\bin\Debug\net5.0\InterfaceBikeCar.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\InterfaceBikeCar\bin\Debug\net5.0\ref\InterfaceBikeCar.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\InterfaceBikeCar\bin\Debug\net5.0\InterfaceBikeCar.pdb
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\InterfaceBikeCar\obj\Debug\net5.0\InterfaceBikeCar.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\InterfaceBikeCar\obj\Debug\net5.0\InterfaceBikeCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\InterfaceBikeCar\obj\Debug\net5.0\InterfaceBikeCar.AssemblyInfoInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\InterfaceBikeCar\obj\Debug\net5.0\InterfaceBikeCar.AssemblyInfo.cs
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\InterfaceBikeCar\obj\Debug\net5.0\InterfaceBikeCar.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\InterfaceBikeCar\obj\Debug\net5.0\InterfaceBikeCar.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\InterfaceBikeCar\obj\Debug\net5.0\ref\InterfaceBikeCar.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\InterfaceBikeCar\obj\Debug\net5.0\InterfaceBikeCar.pdb
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\InterfaceBikeCar\obj\Debug\net5.0\InterfaceBikeCar.genruntimeconfig.cache

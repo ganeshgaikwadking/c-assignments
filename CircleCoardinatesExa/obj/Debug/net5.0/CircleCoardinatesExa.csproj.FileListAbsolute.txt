@@ -1,0 +1,16 @@
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\CircleCoardinatesExa\bin\Debug\net5.0\CircleCoardinatesExa.exe
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\CircleCoardinatesExa\bin\Debug\net5.0\CircleCoardinatesExa.deps.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\CircleCoardinatesExa\bin\Debug\net5.0\CircleCoardinatesExa.runtimeconfig.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\CircleCoardinatesExa\bin\Debug\net5.0\CircleCoardinatesExa.runtimeconfig.dev.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\CircleCoardinatesExa\bin\Debug\net5.0\CircleCoardinatesExa.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\CircleCoardinatesExa\bin\Debug\net5.0\ref\CircleCoardinatesExa.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\CircleCoardinatesExa\bin\Debug\net5.0\CircleCoardinatesExa.pdb
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\CircleCoardinatesExa\obj\Debug\net5.0\CircleCoardinatesExa.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\CircleCoardinatesExa\obj\Debug\net5.0\CircleCoardinatesExa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\CircleCoardinatesExa\obj\Debug\net5.0\CircleCoardinatesExa.AssemblyInfoInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\CircleCoardinatesExa\obj\Debug\net5.0\CircleCoardinatesExa.AssemblyInfo.cs
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\CircleCoardinatesExa\obj\Debug\net5.0\CircleCoardinatesExa.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\CircleCoardinatesExa\obj\Debug\net5.0\CircleCoardinatesExa.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\CircleCoardinatesExa\obj\Debug\net5.0\ref\CircleCoardinatesExa.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\CircleCoardinatesExa\obj\Debug\net5.0\CircleCoardinatesExa.pdb
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\CircleCoardinatesExa\obj\Debug\net5.0\CircleCoardinatesExa.genruntimeconfig.cache
