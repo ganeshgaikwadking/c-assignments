@@ -1,14 +1,15 @@
 ﻿using System;
 
+
 namespace StudentBook
 {
-    class Program
+    public class BookData
     {
         int Bookid;
         string BookName, AuthorName;
         float price,Dicount;
 
-        public  Program(int Bookid, string BookName, string AuthorName, float price)
+        public BookData(int Bookid, string BookName, string AuthorName, float price)
             {
             this.Bookid = Bookid;
             this.BookName = BookName;
@@ -29,8 +30,8 @@ namespace StudentBook
 
         static void Main(string[] args)
         {
-            Program book = new Program (1, "Life in the Clock Tower Valley", "Shakoor Rather", 500);
-            Program book1 = new Program(2, "Elephant in the Womb", "Kalki Koechlin", 300);
+            BookData book = new BookData(1, "Life in the Clock Tower Valley", "Shakoor Rather", 500);
+            BookData book1 = new BookData(2, "Elephant in the Womb", "Kalki Koechlin", 300);
 
             book.CalculateDiscount();
             Console.WriteLine(book);

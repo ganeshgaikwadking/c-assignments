@@ -1,0 +1,16 @@
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\ArrayProgram\bin\Debug\net5.0\ArrayProgram.exe
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\ArrayProgram\bin\Debug\net5.0\ArrayProgram.deps.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\ArrayProgram\bin\Debug\net5.0\ArrayProgram.runtimeconfig.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\ArrayProgram\bin\Debug\net5.0\ArrayProgram.runtimeconfig.dev.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\ArrayProgram\bin\Debug\net5.0\ArrayProgram.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\ArrayProgram\bin\Debug\net5.0\ref\ArrayProgram.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\ArrayProgram\bin\Debug\net5.0\ArrayProgram.pdb
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\ArrayProgram\obj\Debug\net5.0\ArrayProgram.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\ArrayProgram\obj\Debug\net5.0\ArrayProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\ArrayProgram\obj\Debug\net5.0\ArrayProgram.AssemblyInfoInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\ArrayProgram\obj\Debug\net5.0\ArrayProgram.AssemblyInfo.cs
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\ArrayProgram\obj\Debug\net5.0\ArrayProgram.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\ArrayProgram\obj\Debug\net5.0\ArrayProgram.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\ArrayProgram\obj\Debug\net5.0\ref\ArrayProgram.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\ArrayProgram\obj\Debug\net5.0\ArrayProgram.pdb
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\ArrayProgram\obj\Debug\net5.0\ArrayProgram.genruntimeconfig.cache

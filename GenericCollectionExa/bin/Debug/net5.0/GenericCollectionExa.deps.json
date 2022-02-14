@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GenericCollectionExa/1.0.0": {
+        "dependencies": {
+          "StudentBook": "1.0.0"
+        },
+        "runtime": {
+          "GenericCollectionExa.dll": {}
+        }
+      },
+      "StudentBook/1.0.0": {
+        "runtime": {
+          "StudentBook.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericCollectionExa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentBook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

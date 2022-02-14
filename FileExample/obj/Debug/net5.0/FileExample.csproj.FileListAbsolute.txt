@@ -1,0 +1,16 @@
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\FileExample\bin\Debug\net5.0\FileExample.exe
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\FileExample\bin\Debug\net5.0\FileExample.deps.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\FileExample\bin\Debug\net5.0\FileExample.runtimeconfig.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\FileExample\bin\Debug\net5.0\FileExample.runtimeconfig.dev.json
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\FileExample\bin\Debug\net5.0\FileExample.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\FileExample\bin\Debug\net5.0\ref\FileExample.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\FileExample\bin\Debug\net5.0\FileExample.pdb
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\FileExample\obj\Debug\net5.0\FileExample.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\FileExample\obj\Debug\net5.0\FileExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\FileExample\obj\Debug\net5.0\FileExample.AssemblyInfoInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\FileExample\obj\Debug\net5.0\FileExample.AssemblyInfo.cs
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\FileExample\obj\Debug\net5.0\FileExample.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\FileExample\obj\Debug\net5.0\FileExample.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\FileExample\obj\Debug\net5.0\ref\FileExample.dll
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\FileExample\obj\Debug\net5.0\FileExample.pdb
+C:\Users\Ganesh Gaikwad\source\repos\assignmentnew\FileExample\obj\Debug\net5.0\FileExample.genruntimeconfig.cache
