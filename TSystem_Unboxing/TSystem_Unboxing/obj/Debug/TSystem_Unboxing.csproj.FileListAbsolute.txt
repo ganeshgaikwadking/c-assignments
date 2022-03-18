@@ -1,0 +1,7 @@
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Unboxing\TSystem_Unboxing\bin\Debug\TSystem_Unboxing.exe.config
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Unboxing\TSystem_Unboxing\bin\Debug\TSystem_Unboxing.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Unboxing\TSystem_Unboxing\bin\Debug\TSystem_Unboxing.pdb
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Unboxing\TSystem_Unboxing\obj\Debug\TSystem_Unboxing.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Unboxing\TSystem_Unboxing\obj\Debug\TSystem_Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Unboxing\TSystem_Unboxing\obj\Debug\TSystem_Unboxing.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Unboxing\TSystem_Unboxing\obj\Debug\TSystem_Unboxing.pdb

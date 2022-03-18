@@ -1,0 +1,11 @@
+C:\Users\Ganesh Gaikwad\source\repos\WindowsFormDemo\WindowsFormDemo\bin\Debug\WindowsFormDemo.exe.config
+C:\Users\Ganesh Gaikwad\source\repos\WindowsFormDemo\WindowsFormDemo\bin\Debug\WindowsFormDemo.exe
+C:\Users\Ganesh Gaikwad\source\repos\WindowsFormDemo\WindowsFormDemo\bin\Debug\WindowsFormDemo.pdb
+C:\Users\Ganesh Gaikwad\source\repos\WindowsFormDemo\WindowsFormDemo\obj\Debug\WindowsFormDemo.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\WindowsFormDemo\WindowsFormDemo\obj\Debug\WindowsFormDemo.Form1.resources
+C:\Users\Ganesh Gaikwad\source\repos\WindowsFormDemo\WindowsFormDemo\obj\Debug\WindowsFormDemo.Properties.Resources.resources
+C:\Users\Ganesh Gaikwad\source\repos\WindowsFormDemo\WindowsFormDemo\obj\Debug\WindowsFormDemo.csproj.GenerateResource.cache
+C:\Users\Ganesh Gaikwad\source\repos\WindowsFormDemo\WindowsFormDemo\obj\Debug\WindowsFormDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\WindowsFormDemo\WindowsFormDemo\obj\Debug\WindowsFormDemo.exe
+C:\Users\Ganesh Gaikwad\source\repos\WindowsFormDemo\WindowsFormDemo\obj\Debug\WindowsFormDemo.pdb
+C:\Users\Ganesh Gaikwad\source\repos\WindowsFormDemo\WindowsFormDemo\obj\Debug\WindowsFormDemo.Notepad.resources

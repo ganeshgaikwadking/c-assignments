@@ -1,0 +1,10 @@
+C:\Users\Ganesh Gaikwad\source\repos\NewWinForm\NewWinForm\bin\Debug\NewWinForm.exe.config
+C:\Users\Ganesh Gaikwad\source\repos\NewWinForm\NewWinForm\bin\Debug\NewWinForm.exe
+C:\Users\Ganesh Gaikwad\source\repos\NewWinForm\NewWinForm\bin\Debug\NewWinForm.pdb
+C:\Users\Ganesh Gaikwad\source\repos\NewWinForm\NewWinForm\obj\Debug\NewWinForm.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\NewWinForm\NewWinForm\obj\Debug\NewWinForm.Form1.resources
+C:\Users\Ganesh Gaikwad\source\repos\NewWinForm\NewWinForm\obj\Debug\NewWinForm.Properties.Resources.resources
+C:\Users\Ganesh Gaikwad\source\repos\NewWinForm\NewWinForm\obj\Debug\NewWinForm.csproj.GenerateResource.cache
+C:\Users\Ganesh Gaikwad\source\repos\NewWinForm\NewWinForm\obj\Debug\NewWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\NewWinForm\NewWinForm\obj\Debug\NewWinForm.exe
+C:\Users\Ganesh Gaikwad\source\repos\NewWinForm\NewWinForm\obj\Debug\NewWinForm.pdb

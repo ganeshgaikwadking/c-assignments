@@ -1,0 +1,6 @@
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Arithmatic_OutParameters\TSystem_Arithmatic_OutParameters\bin\Debug\TSystem_Arithmatic_OutParameters.exe.config
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Arithmatic_OutParameters\TSystem_Arithmatic_OutParameters\bin\Debug\TSystem_Arithmatic_OutParameters.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Arithmatic_OutParameters\TSystem_Arithmatic_OutParameters\bin\Debug\TSystem_Arithmatic_OutParameters.pdb
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Arithmatic_OutParameters\TSystem_Arithmatic_OutParameters\obj\Debug\TSystem_Arithmatic_OutParameters.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Arithmatic_OutParameters\TSystem_Arithmatic_OutParameters\obj\Debug\TSystem_Arithmatic_OutParameters.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Arithmatic_OutParameters\TSystem_Arithmatic_OutParameters\obj\Debug\TSystem_Arithmatic_OutParameters.pdb

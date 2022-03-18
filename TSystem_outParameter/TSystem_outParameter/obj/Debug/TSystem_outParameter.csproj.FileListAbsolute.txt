@@ -1,0 +1,6 @@
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_outParameter\TSystem_outParameter\bin\Debug\TSystem_outParameter.exe.config
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_outParameter\TSystem_outParameter\bin\Debug\TSystem_outParameter.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_outParameter\TSystem_outParameter\bin\Debug\TSystem_outParameter.pdb
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_outParameter\TSystem_outParameter\obj\Debug\TSystem_outParameter.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_outParameter\TSystem_outParameter\obj\Debug\TSystem_outParameter.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_outParameter\TSystem_outParameter\obj\Debug\TSystem_outParameter.pdb

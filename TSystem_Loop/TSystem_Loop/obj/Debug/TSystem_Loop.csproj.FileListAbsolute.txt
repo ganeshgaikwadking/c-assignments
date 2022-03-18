@@ -1,0 +1,7 @@
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Loop\TSystem_Loop\bin\Debug\TSystem_Loop.exe.config
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Loop\TSystem_Loop\bin\Debug\TSystem_Loop.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Loop\TSystem_Loop\bin\Debug\TSystem_Loop.pdb
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Loop\TSystem_Loop\obj\Debug\TSystem_Loop.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Loop\TSystem_Loop\obj\Debug\TSystem_Loop.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Loop\TSystem_Loop\obj\Debug\TSystem_Loop.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Loop\TSystem_Loop\obj\Debug\TSystem_Loop.pdb

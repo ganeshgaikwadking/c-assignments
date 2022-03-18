@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSystem_AreaOperation_UserInput", "TSystem_AreaOperation_UserInput\TSystem_AreaOperation_UserInput.csproj", "{BD0E4C6A-4336-438D-B7CB-E7DDDB32B675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD0E4C6A-4336-438D-B7CB-E7DDDB32B675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0E4C6A-4336-438D-B7CB-E7DDDB32B675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0E4C6A-4336-438D-B7CB-E7DDDB32B675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0E4C6A-4336-438D-B7CB-E7DDDB32B675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEE7563A-6F35-4607-9290-CB349243DFB0}
+	EndGlobalSection
+EndGlobal

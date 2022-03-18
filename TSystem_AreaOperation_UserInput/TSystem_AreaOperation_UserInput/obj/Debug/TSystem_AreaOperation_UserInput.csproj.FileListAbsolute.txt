@@ -1,0 +1,7 @@
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_AreaOperation_UserInput\TSystem_AreaOperation_UserInput\bin\Debug\TSystem_AreaOperation_UserInput.exe.config
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_AreaOperation_UserInput\TSystem_AreaOperation_UserInput\bin\Debug\TSystem_AreaOperation_UserInput.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_AreaOperation_UserInput\TSystem_AreaOperation_UserInput\bin\Debug\TSystem_AreaOperation_UserInput.pdb
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_AreaOperation_UserInput\TSystem_AreaOperation_UserInput\obj\Debug\TSystem_AreaOperation_UserInput.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_AreaOperation_UserInput\TSystem_AreaOperation_UserInput\obj\Debug\TSystem_AreaOperation_UserInput.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_AreaOperation_UserInput\TSystem_AreaOperation_UserInput\obj\Debug\TSystem_AreaOperation_UserInput.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_AreaOperation_UserInput\TSystem_AreaOperation_UserInput\obj\Debug\TSystem_AreaOperation_UserInput.pdb

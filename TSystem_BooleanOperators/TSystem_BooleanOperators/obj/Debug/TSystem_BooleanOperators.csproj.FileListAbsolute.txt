@@ -1,0 +1,7 @@
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_BooleanOperators\TSystem_BooleanOperators\bin\Debug\TSystem_BooleanOperators.exe.config
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_BooleanOperators\TSystem_BooleanOperators\bin\Debug\TSystem_BooleanOperators.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_BooleanOperators\TSystem_BooleanOperators\bin\Debug\TSystem_BooleanOperators.pdb
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_BooleanOperators\TSystem_BooleanOperators\obj\Debug\TSystem_BooleanOperators.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_BooleanOperators\TSystem_BooleanOperators\obj\Debug\TSystem_BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_BooleanOperators\TSystem_BooleanOperators\obj\Debug\TSystem_BooleanOperators.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_BooleanOperators\TSystem_BooleanOperators\obj\Debug\TSystem_BooleanOperators.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_MultipleNameSpace\TSystem_MultipleNameSpace\bin\Debug\TSystem_MultipleNameSpace.exe.config
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_MultipleNameSpace\TSystem_MultipleNameSpace\bin\Debug\TSystem_MultipleNameSpace.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_MultipleNameSpace\TSystem_MultipleNameSpace\bin\Debug\TSystem_MultipleNameSpace.pdb
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_MultipleNameSpace\TSystem_MultipleNameSpace\obj\Debug\TSystem_MultipleNameSpace.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_MultipleNameSpace\TSystem_MultipleNameSpace\obj\Debug\TSystem_MultipleNameSpace.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_MultipleNameSpace\TSystem_MultipleNameSpace\obj\Debug\TSystem_MultipleNameSpace.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_MultipleNameSpace\TSystem_MultipleNameSpace\obj\Debug\TSystem_MultipleNameSpace.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Enum_Months\TSystem_Enum_Months\bin\Debug\TSystem_Enum_Months.exe.config
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Enum_Months\TSystem_Enum_Months\bin\Debug\TSystem_Enum_Months.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Enum_Months\TSystem_Enum_Months\bin\Debug\TSystem_Enum_Months.pdb
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Enum_Months\TSystem_Enum_Months\obj\Debug\TSystem_Enum_Months.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Enum_Months\TSystem_Enum_Months\obj\Debug\TSystem_Enum_Months.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Enum_Months\TSystem_Enum_Months\obj\Debug\TSystem_Enum_Months.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Enum_Months\TSystem_Enum_Months\obj\Debug\TSystem_Enum_Months.pdb

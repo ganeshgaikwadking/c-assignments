@@ -1,0 +1,6 @@
+C:\Users\Ganesh Gaikwad\source\repos\Tsystem_WhileLoop_Assignment2\Tsystem_WhileLoop_Assignment2\bin\Debug\Tsystem_WhileLoop_Assignment2.exe.config
+C:\Users\Ganesh Gaikwad\source\repos\Tsystem_WhileLoop_Assignment2\Tsystem_WhileLoop_Assignment2\bin\Debug\Tsystem_WhileLoop_Assignment2.exe
+C:\Users\Ganesh Gaikwad\source\repos\Tsystem_WhileLoop_Assignment2\Tsystem_WhileLoop_Assignment2\bin\Debug\Tsystem_WhileLoop_Assignment2.pdb
+C:\Users\Ganesh Gaikwad\source\repos\Tsystem_WhileLoop_Assignment2\Tsystem_WhileLoop_Assignment2\obj\Debug\Tsystem_WhileLoop_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\Tsystem_WhileLoop_Assignment2\Tsystem_WhileLoop_Assignment2\obj\Debug\Tsystem_WhileLoop_Assignment2.exe
+C:\Users\Ganesh Gaikwad\source\repos\Tsystem_WhileLoop_Assignment2\Tsystem_WhileLoop_Assignment2\obj\Debug\Tsystem_WhileLoop_Assignment2.pdb

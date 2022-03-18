@@ -1,0 +1,7 @@
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Enum\TSystem_Enum\bin\Debug\TSystem_Enum.exe.config
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Enum\TSystem_Enum\bin\Debug\TSystem_Enum.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Enum\TSystem_Enum\bin\Debug\TSystem_Enum.pdb
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Enum\TSystem_Enum\obj\Debug\TSystem_Enum.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Enum\TSystem_Enum\obj\Debug\TSystem_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Enum\TSystem_Enum\obj\Debug\TSystem_Enum.exe
+C:\Users\Ganesh Gaikwad\source\repos\TSystem_Enum\TSystem_Enum\obj\Debug\TSystem_Enum.pdb
