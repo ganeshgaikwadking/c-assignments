@@ -1,6 +1,0 @@
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Ternaryoperator\TSystem_Ternaryoperator\bin\Debug\TSystem_Ternaryoperator.exe.config
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Ternaryoperator\TSystem_Ternaryoperator\bin\Debug\TSystem_Ternaryoperator.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Ternaryoperator\TSystem_Ternaryoperator\bin\Debug\TSystem_Ternaryoperator.pdb
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Ternaryoperator\TSystem_Ternaryoperator\obj\Debug\TSystem_Ternaryoperator.csproj.CoreCompileInputs.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Ternaryoperator\TSystem_Ternaryoperator\obj\Debug\TSystem_Ternaryoperator.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Ternaryoperator\TSystem_Ternaryoperator\obj\Debug\TSystem_Ternaryoperator.pdb

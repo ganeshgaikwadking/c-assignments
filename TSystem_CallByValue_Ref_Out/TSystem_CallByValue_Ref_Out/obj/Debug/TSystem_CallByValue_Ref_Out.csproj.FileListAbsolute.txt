@@ -1,7 +1,0 @@
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_CallByValue_Ref_Out\TSystem_CallByValue_Ref_Out\bin\Debug\TSystem_CallByValue_Ref_Out.exe.config
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_CallByValue_Ref_Out\TSystem_CallByValue_Ref_Out\bin\Debug\TSystem_CallByValue_Ref_Out.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_CallByValue_Ref_Out\TSystem_CallByValue_Ref_Out\bin\Debug\TSystem_CallByValue_Ref_Out.pdb
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_CallByValue_Ref_Out\TSystem_CallByValue_Ref_Out\obj\Debug\TSystem_CallByValue_Ref_Out.csproj.AssemblyReference.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_CallByValue_Ref_Out\TSystem_CallByValue_Ref_Out\obj\Debug\TSystem_CallByValue_Ref_Out.csproj.CoreCompileInputs.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_CallByValue_Ref_Out\TSystem_CallByValue_Ref_Out\obj\Debug\TSystem_CallByValue_Ref_Out.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_CallByValue_Ref_Out\TSystem_CallByValue_Ref_Out\obj\Debug\TSystem_CallByValue_Ref_Out.pdb

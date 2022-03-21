@@ -1,7 +1,0 @@
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_UnaryOpeartors\TSystem_UnaryOpeartors\bin\Debug\TSystem_UnaryOpeartors.exe.config
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_UnaryOpeartors\TSystem_UnaryOpeartors\bin\Debug\TSystem_UnaryOpeartors.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_UnaryOpeartors\TSystem_UnaryOpeartors\bin\Debug\TSystem_UnaryOpeartors.pdb
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_UnaryOpeartors\TSystem_UnaryOpeartors\obj\Debug\TSystem_UnaryOpeartors.csproj.AssemblyReference.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_UnaryOpeartors\TSystem_UnaryOpeartors\obj\Debug\TSystem_UnaryOpeartors.csproj.CoreCompileInputs.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_UnaryOpeartors\TSystem_UnaryOpeartors\obj\Debug\TSystem_UnaryOpeartors.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_UnaryOpeartors\TSystem_UnaryOpeartors\obj\Debug\TSystem_UnaryOpeartors.pdb

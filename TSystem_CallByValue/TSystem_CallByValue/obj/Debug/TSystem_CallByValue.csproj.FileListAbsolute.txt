@@ -1,6 +1,0 @@
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_CallByValue\TSystem_CallByValue\bin\Debug\TSystem_CallByValue.exe.config
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_CallByValue\TSystem_CallByValue\bin\Debug\TSystem_CallByValue.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_CallByValue\TSystem_CallByValue\bin\Debug\TSystem_CallByValue.pdb
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_CallByValue\TSystem_CallByValue\obj\Debug\TSystem_CallByValue.csproj.CoreCompileInputs.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_CallByValue\TSystem_CallByValue\obj\Debug\TSystem_CallByValue.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_CallByValue\TSystem_CallByValue\obj\Debug\TSystem_CallByValue.pdb

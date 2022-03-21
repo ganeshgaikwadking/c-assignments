@@ -1,7 +1,0 @@
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Boxing\TSystem_Boxing\bin\Debug\TSystem_Boxing.exe.config
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Boxing\TSystem_Boxing\bin\Debug\TSystem_Boxing.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Boxing\TSystem_Boxing\bin\Debug\TSystem_Boxing.pdb
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Boxing\TSystem_Boxing\obj\Debug\TSystem_Boxing.csproj.AssemblyReference.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Boxing\TSystem_Boxing\obj\Debug\TSystem_Boxing.csproj.CoreCompileInputs.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Boxing\TSystem_Boxing\obj\Debug\TSystem_Boxing.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Boxing\TSystem_Boxing\obj\Debug\TSystem_Boxing.pdb

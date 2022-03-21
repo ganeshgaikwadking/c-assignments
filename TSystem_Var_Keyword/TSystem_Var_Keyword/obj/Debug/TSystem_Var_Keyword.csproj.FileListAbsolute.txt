@@ -1,7 +1,0 @@
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Var_Keyword\TSystem_Var_Keyword\bin\Debug\TSystem_Var_Keyword.exe.config
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Var_Keyword\TSystem_Var_Keyword\bin\Debug\TSystem_Var_Keyword.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Var_Keyword\TSystem_Var_Keyword\bin\Debug\TSystem_Var_Keyword.pdb
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Var_Keyword\TSystem_Var_Keyword\obj\Debug\TSystem_Var_Keyword.csproj.AssemblyReference.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Var_Keyword\TSystem_Var_Keyword\obj\Debug\TSystem_Var_Keyword.csproj.CoreCompileInputs.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Var_Keyword\TSystem_Var_Keyword\obj\Debug\TSystem_Var_Keyword.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Var_Keyword\TSystem_Var_Keyword\obj\Debug\TSystem_Var_Keyword.pdb

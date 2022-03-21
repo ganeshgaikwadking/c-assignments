@@ -1,7 +1,0 @@
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_NestedLoop_assignment2\TSystem_NestedLoop_assignment2\bin\Debug\TSystem_NestedLoop_assignment2.exe.config
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_NestedLoop_assignment2\TSystem_NestedLoop_assignment2\bin\Debug\TSystem_NestedLoop_assignment2.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_NestedLoop_assignment2\TSystem_NestedLoop_assignment2\bin\Debug\TSystem_NestedLoop_assignment2.pdb
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_NestedLoop_assignment2\TSystem_NestedLoop_assignment2\obj\Debug\TSystem_NestedLoop_assignment2.csproj.AssemblyReference.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_NestedLoop_assignment2\TSystem_NestedLoop_assignment2\obj\Debug\TSystem_NestedLoop_assignment2.csproj.CoreCompileInputs.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_NestedLoop_assignment2\TSystem_NestedLoop_assignment2\obj\Debug\TSystem_NestedLoop_assignment2.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_NestedLoop_assignment2\TSystem_NestedLoop_assignment2\obj\Debug\TSystem_NestedLoop_assignment2.pdb

@@ -1,7 +1,0 @@
-C:\Users\Ganesh Gaikwad\source\repos\TSytem_Functions_AreaOpeartion\TSytem_Functions_AreaOpeartion\bin\Debug\TSytem_Functions_AreaOpeartion.exe.config
-C:\Users\Ganesh Gaikwad\source\repos\TSytem_Functions_AreaOpeartion\TSytem_Functions_AreaOpeartion\bin\Debug\TSytem_Functions_AreaOpeartion.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSytem_Functions_AreaOpeartion\TSytem_Functions_AreaOpeartion\bin\Debug\TSytem_Functions_AreaOpeartion.pdb
-C:\Users\Ganesh Gaikwad\source\repos\TSytem_Functions_AreaOpeartion\TSytem_Functions_AreaOpeartion\obj\Debug\TSytem_Functions_AreaOpeartion.csproj.AssemblyReference.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSytem_Functions_AreaOpeartion\TSytem_Functions_AreaOpeartion\obj\Debug\TSytem_Functions_AreaOpeartion.csproj.CoreCompileInputs.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSytem_Functions_AreaOpeartion\TSytem_Functions_AreaOpeartion\obj\Debug\TSytem_Functions_AreaOpeartion.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSytem_Functions_AreaOpeartion\TSytem_Functions_AreaOpeartion\obj\Debug\TSytem_Functions_AreaOpeartion.pdb

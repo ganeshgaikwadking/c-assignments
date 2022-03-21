@@ -1,7 +1,0 @@
-C:\Users\Ganesh Gaikwad\source\repos\TSyestem_IfElseStatement\TSyestem_IfElseStatement\bin\Debug\TSyestem_IfElseStatement.exe.config
-C:\Users\Ganesh Gaikwad\source\repos\TSyestem_IfElseStatement\TSyestem_IfElseStatement\bin\Debug\TSyestem_IfElseStatement.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSyestem_IfElseStatement\TSyestem_IfElseStatement\bin\Debug\TSyestem_IfElseStatement.pdb
-C:\Users\Ganesh Gaikwad\source\repos\TSyestem_IfElseStatement\TSyestem_IfElseStatement\obj\Debug\TSyestem_IfElseStatement.csproj.AssemblyReference.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSyestem_IfElseStatement\TSyestem_IfElseStatement\obj\Debug\TSyestem_IfElseStatement.csproj.CoreCompileInputs.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSyestem_IfElseStatement\TSyestem_IfElseStatement\obj\Debug\TSyestem_IfElseStatement.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSyestem_IfElseStatement\TSyestem_IfElseStatement\obj\Debug\TSyestem_IfElseStatement.pdb

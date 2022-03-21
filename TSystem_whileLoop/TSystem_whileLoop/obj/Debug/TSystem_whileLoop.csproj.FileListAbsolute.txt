@@ -1,7 +1,0 @@
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_whileLoop\TSystem_whileLoop\bin\Debug\TSystem_whileLoop.exe.config
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_whileLoop\TSystem_whileLoop\bin\Debug\TSystem_whileLoop.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_whileLoop\TSystem_whileLoop\bin\Debug\TSystem_whileLoop.pdb
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_whileLoop\TSystem_whileLoop\obj\Debug\TSystem_whileLoop.csproj.AssemblyReference.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_whileLoop\TSystem_whileLoop\obj\Debug\TSystem_whileLoop.csproj.CoreCompileInputs.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_whileLoop\TSystem_whileLoop\obj\Debug\TSystem_whileLoop.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_whileLoop\TSystem_whileLoop\obj\Debug\TSystem_whileLoop.pdb

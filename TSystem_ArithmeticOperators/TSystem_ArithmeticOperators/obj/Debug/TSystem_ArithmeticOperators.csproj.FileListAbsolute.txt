@@ -1,7 +1,0 @@
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_ArithmeticOperators\TSystem_ArithmeticOperators\bin\Debug\TSystem_ArithmeticOperators.exe.config
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_ArithmeticOperators\TSystem_ArithmeticOperators\bin\Debug\TSystem_ArithmeticOperators.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_ArithmeticOperators\TSystem_ArithmeticOperators\bin\Debug\TSystem_ArithmeticOperators.pdb
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_ArithmeticOperators\TSystem_ArithmeticOperators\obj\Debug\TSystem_ArithmeticOperators.csproj.AssemblyReference.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_ArithmeticOperators\TSystem_ArithmeticOperators\obj\Debug\TSystem_ArithmeticOperators.csproj.CoreCompileInputs.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_ArithmeticOperators\TSystem_ArithmeticOperators\obj\Debug\TSystem_ArithmeticOperators.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_ArithmeticOperators\TSystem_ArithmeticOperators\obj\Debug\TSystem_ArithmeticOperators.pdb

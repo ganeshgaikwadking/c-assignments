@@ -1,7 +1,0 @@
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Variables\TSystem_Variables\bin\Debug\TSystem_Variables.exe.config
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Variables\TSystem_Variables\bin\Debug\TSystem_Variables.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Variables\TSystem_Variables\bin\Debug\TSystem_Variables.pdb
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Variables\TSystem_Variables\obj\Debug\TSystem_Variables.csproj.AssemblyReference.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Variables\TSystem_Variables\obj\Debug\TSystem_Variables.csproj.CoreCompileInputs.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Variables\TSystem_Variables\obj\Debug\TSystem_Variables.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Variables\TSystem_Variables\obj\Debug\TSystem_Variables.pdb

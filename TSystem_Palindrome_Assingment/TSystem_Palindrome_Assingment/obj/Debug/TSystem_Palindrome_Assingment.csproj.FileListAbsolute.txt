@@ -1,7 +1,0 @@
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Palindrome_Assingment\TSystem_Palindrome_Assingment\bin\Debug\TSystem_Palindrome_Assingment.exe.config
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Palindrome_Assingment\TSystem_Palindrome_Assingment\bin\Debug\TSystem_Palindrome_Assingment.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Palindrome_Assingment\TSystem_Palindrome_Assingment\bin\Debug\TSystem_Palindrome_Assingment.pdb
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Palindrome_Assingment\TSystem_Palindrome_Assingment\obj\Debug\TSystem_Palindrome_Assingment.csproj.AssemblyReference.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Palindrome_Assingment\TSystem_Palindrome_Assingment\obj\Debug\TSystem_Palindrome_Assingment.csproj.CoreCompileInputs.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Palindrome_Assingment\TSystem_Palindrome_Assingment\obj\Debug\TSystem_Palindrome_Assingment.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Palindrome_Assingment\TSystem_Palindrome_Assingment\obj\Debug\TSystem_Palindrome_Assingment.pdb

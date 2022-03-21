@@ -1,7 +1,0 @@
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Factorial_Assignment\TSystem_Factorial_Assignment\bin\Debug\TSystem_Factorial_Assignment.exe.config
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Factorial_Assignment\TSystem_Factorial_Assignment\bin\Debug\TSystem_Factorial_Assignment.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Factorial_Assignment\TSystem_Factorial_Assignment\bin\Debug\TSystem_Factorial_Assignment.pdb
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Factorial_Assignment\TSystem_Factorial_Assignment\obj\Debug\TSystem_Factorial_Assignment.csproj.AssemblyReference.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Factorial_Assignment\TSystem_Factorial_Assignment\obj\Debug\TSystem_Factorial_Assignment.csproj.CoreCompileInputs.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Factorial_Assignment\TSystem_Factorial_Assignment\obj\Debug\TSystem_Factorial_Assignment.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_Factorial_Assignment\TSystem_Factorial_Assignment\obj\Debug\TSystem_Factorial_Assignment.pdb

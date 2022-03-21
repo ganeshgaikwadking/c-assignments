@@ -1,7 +1,0 @@
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_LogicalOpearor_UserInput\TSystem_LogicalOpearor_UserInput\bin\Debug\TSystem_LogicalOpearor_UserInput.exe.config
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_LogicalOpearor_UserInput\TSystem_LogicalOpearor_UserInput\bin\Debug\TSystem_LogicalOpearor_UserInput.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_LogicalOpearor_UserInput\TSystem_LogicalOpearor_UserInput\bin\Debug\TSystem_LogicalOpearor_UserInput.pdb
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_LogicalOpearor_UserInput\TSystem_LogicalOpearor_UserInput\obj\Debug\TSystem_LogicalOpearor_UserInput.csproj.AssemblyReference.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_LogicalOpearor_UserInput\TSystem_LogicalOpearor_UserInput\obj\Debug\TSystem_LogicalOpearor_UserInput.csproj.CoreCompileInputs.cache
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_LogicalOpearor_UserInput\TSystem_LogicalOpearor_UserInput\obj\Debug\TSystem_LogicalOpearor_UserInput.exe
-C:\Users\Ganesh Gaikwad\source\repos\TSystem_LogicalOpearor_UserInput\TSystem_LogicalOpearor_UserInput\obj\Debug\TSystem_LogicalOpearor_UserInput.pdb
