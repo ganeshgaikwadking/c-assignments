@@ -1,0 +1,10 @@
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\ADODotNetExa\bin\Debug\ADODotNetExa.exe.config
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\ADODotNetExa\bin\Debug\ADODotNetExa.exe
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\ADODotNetExa\bin\Debug\ADODotNetExa.pdb
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\ADODotNetExa\obj\Debug\ADODotNetExa.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\ADODotNetExa\obj\Debug\ADODotNetExa.Form1.resources
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\ADODotNetExa\obj\Debug\ADODotNetExa.Properties.Resources.resources
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\ADODotNetExa\obj\Debug\ADODotNetExa.csproj.GenerateResource.cache
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\ADODotNetExa\obj\Debug\ADODotNetExa.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\ADODotNetExa\obj\Debug\ADODotNetExa.exe
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\ADODotNetExa\obj\Debug\ADODotNetExa.pdb

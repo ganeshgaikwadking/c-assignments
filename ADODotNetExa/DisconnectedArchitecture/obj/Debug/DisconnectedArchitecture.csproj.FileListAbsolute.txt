@@ -1,0 +1,10 @@
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\DisconnectedArchitecture\bin\Debug\DisconnectedArchitecture.exe.config
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\DisconnectedArchitecture\bin\Debug\DisconnectedArchitecture.exe
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\DisconnectedArchitecture\bin\Debug\DisconnectedArchitecture.pdb
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.Form1.resources
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.Properties.Resources.resources
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.csproj.GenerateResource.cache
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.exe
+C:\Users\Ganesh Gaikwad\source\repos\ADODotNetExa\DisconnectedArchitecture\obj\Debug\DisconnectedArchitecture.pdb
