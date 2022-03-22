@@ -1,0 +1,15 @@
+C:\Users\Ganesh Gaikwad\source\repos\LINQToEF\LINQToEF\bin\Debug\LINQToEF.exe.config
+C:\Users\Ganesh Gaikwad\source\repos\LINQToEF\LINQToEF\bin\Debug\LINQToEF.exe
+C:\Users\Ganesh Gaikwad\source\repos\LINQToEF\LINQToEF\bin\Debug\LINQToEF.pdb
+C:\Users\Ganesh Gaikwad\source\repos\LINQToEF\LINQToEF\bin\Debug\EntityFramework.dll
+C:\Users\Ganesh Gaikwad\source\repos\LINQToEF\LINQToEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ganesh Gaikwad\source\repos\LINQToEF\LINQToEF\bin\Debug\EntityFramework.xml
+C:\Users\Ganesh Gaikwad\source\repos\LINQToEF\LINQToEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ganesh Gaikwad\source\repos\LINQToEF\LINQToEF\obj\Debug\LINQToEF.csproj.AssemblyReference.cache
+C:\Users\Ganesh Gaikwad\source\repos\LINQToEF\LINQToEF\obj\Debug\LINQToEF.Form1.resources
+C:\Users\Ganesh Gaikwad\source\repos\LINQToEF\LINQToEF\obj\Debug\LINQToEF.Properties.Resources.resources
+C:\Users\Ganesh Gaikwad\source\repos\LINQToEF\LINQToEF\obj\Debug\LINQToEF.csproj.GenerateResource.cache
+C:\Users\Ganesh Gaikwad\source\repos\LINQToEF\LINQToEF\obj\Debug\LINQToEF.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh Gaikwad\source\repos\LINQToEF\LINQToEF\obj\Debug\LINQToEF.csproj.CopyComplete
+C:\Users\Ganesh Gaikwad\source\repos\LINQToEF\LINQToEF\obj\Debug\LINQToEF.exe
+C:\Users\Ganesh Gaikwad\source\repos\LINQToEF\LINQToEF\obj\Debug\LINQToEF.pdb
