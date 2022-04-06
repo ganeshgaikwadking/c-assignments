@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        var result;
+        function setData(str) {
+            console.log(str);
+            if (str == 1)
+                result = '+';
+            else if (str == 2)
+                result = '-';
+            else if (str == 3)
+                result = '*';
+            else if (str == 4)
+                result = '/';
+        }
+        function operation() {
+            if (result == '+') {
+                var num1 = document.getElementById("n1").value;
+                var num2 = document.getElementById("n2").value;
+                var sum = parseFloat(num1) + parseFloat(num2);
+                document.getElementById("n3").value = sum;
+            }
+            else if (result == '-') {
+                var num1 = document.getElementById("n1").value;
+                var num2 = document.getElementById("n2").value;
+                var sub = parseInt(num1) - parseInt(num2);
+                document.getElementById("n3").value = sub;
+            }
+            else if (result == '*') {
+                var num1 = document.getElementById("n1").value;
+                var num2 = document.getElementById("n2").value;
+                var mul = parseInt(num1) * parseInt(num2);
+                document.getElementById("n3").value = mul;
+            }
+            else if (result == '/') {
+                var num1 = document.getElementById("n1").value;
+                var num2 = document.getElementById("n2").value;
+                var div = parseInt(num1) / parseInt(num2);
+                document.getElementById("n3").value = div;
+            }
+
+        }
+
+        var colors = []
+        function addition()
+        {
+            var num1 = document.getElementById("n1").value;
+            var num2 = document.getElementById("n2").value;
+           var  sum = parseFloat(num1) + parseInt(num2);
+            document.getElementById("n3").value = sum;
+        }
+        function Substraction() {
+            var num1 = document.getElementById("n1").value;
+            var num2 = document.getElementById("n2").value;
+            var sum = parseFloat(num1) - parseInt(num2);
+            document.getElementById("n3").value = sum;
+        }
+        function Multiplication() {
+            var num1 = document.getElementById("n1").value;
+            var num2 = document.getElementById("n2").value;
+            var sum = parseFloat(num1) * parseInt(num2);
+            document.getElementById("n3").value = sum;
+        }
+        function Division() {
+            var num1 = document.getElementById("n1").value;
+            var num2 = document.getElementById("n2").value;
+            var sum = parseFloat(num1) / parseInt(num2);
+            document.getElementById("n3").value = sum;
+        }
+
+
+    </script>
+</head>
+<body>
+    <p>
+        Enter 1st Number:<input type="text" id="n1" />
+    </p>
+    <p>
+        Enter 2nd Number:<input type="text" id="n2" />
+    </p>
+    <p>
+        result= <input type="text" id="n3" />
+    </p>
+
+
+    <p>
+        <input type="button" value="+" onclick="setData(1)" />
+        <input type="button" value="-" onclick="setData(2)" />
+        <input type="button" value="*" onclick="setData(3)" />
+        <input type="button" value="/" onclick="setData(4)" />
+
+        <input type="button" value="=" onclick="operation()" />
+
+        <input type="button" value="Add" onclick="addition()" />
+        <input type="button" value="sub" onclick="Substraction()" />
+        <input type="button" value="mul" onclick="Multiplication()" />
+        <input type="button" value="div" onclick="Division()" />
+
+        <h1 id="result"></h1>
+        <b id="bold"></b>
+
+    </p> 
+</body>
+</html>
