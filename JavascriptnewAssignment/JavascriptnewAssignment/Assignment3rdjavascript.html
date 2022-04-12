@@ -1,49 +1,37 @@
-﻿
-<table>
-    <tr>
-    <td>
-        Username:
-    </td>
-    <td>
-        <input type="text" id="txt" required />
-    </td>
-</tr>
-<tr>
-<tr>
-    <td>
-        Password:
-    </td>
-    <td>
-        <input type="password" id="txtPassword"required />
-    </td>
-</tr>
-<tr>
-    <td>
-        Confirm Password:
-    </td>
-    <td>
-        <input type="password" id="txtConfirmPassword" re/>
-    </td>
-</tr>
-<tr>
-    <td>
-    </td>
-    <td>
-        <input type="button" id="btnSubmit" value="Submit" onclick="return Validate()" />
-    </td>
-</tr>
-</table>
-<script type="text/javascript">
-    function Validate() {
-        var password = document.getElementById("txtPassword").value;
-        var confirmPassword = document.getElementById("txtConfirmPassword").value;
-        if (password == confirmPassword) {
-            alert("successfull.");
-            
-            return true;
-        }
-        alert("Passwords do not match.");
+﻿<div>
+    <p>
+        Enter Name: <input type="text" id="txt" name="Username"  />
+    </p>
+    <p>
+        Enter password: <input type="password" id="pass" name="password" />
+    </p>
+    <p>
+        Enter Confirm Password : <input type="password" id="cpass" name="cpassword" />
+    </p>
+    <button type="submit" onclick="save()">Register</button>
+</div>
 
-        return false;
+<script>
+    function save() {
+        var pass = document.getElementById("pass").value;
+        var cpass = document.getElementById("cpass").value;
+        if (pass === null) {
+            alert("Password Should not be Empty");
+        }
+        else {
+            if (pass === cpass) {
+                if (localStorage) {
+                    localStorage.setItem("text", document.getElementById("txt").value);
+                    localStorage.setItem("Password", document.getElementById("pass").value);
+                    alert("Saved in Local Storage");
+                }
+                else {
+                    alert("Browser do not have local Storage");
+                }
+            }
+            else {
+                alert("password does not match");
+            }
+        }
     }
 </script>

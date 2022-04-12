@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <div>
+        <p>Enter Employee Id: <input type="number" id="Id" name="EmpId" /></p>
+        <p>Enter Employee Name: <input type="text" id="Name" name="EmpName" /></p>
+        <p>Enter Employee Salary: <input type="number" id="Salary" name="EmpSalary" /></p>
+        <button type="button" onclick="Save()">Save</button>
+    </div>
+
+    <div id="Employee"></div>
+    <script>
+        function Save() {
+            var Employee = {
+                empId: parseInt(document.getElementById("Id").value),
+                empName: document.getElementById("Name").value,
+                empSalary: parseFloat(document.getElementById("Salary").value)
+            }
+            document.getElementById("Employee").innerHTML = JSON.stringify(Employee);
+        }
+
+
+    </script>
+</body>
+</html>

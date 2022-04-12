@@ -1,0 +1,50 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        p {
+            background: yellow;
+            border: 1px solid;
+            height: 100px;
+        }
+
+        ul {
+            list-style: none;
+        }
+
+        li {
+            border: 1px solid gray;
+            background: lightgray;
+            width: 50%;
+            height: 40px;
+        }
+    </style>
+</head>
+<body>
+    Enter number:<input type="text" id="n1" /><br />
+    Enter number:<input type="text" id="n2" /><br />
+    Result:<input type="text" id="n3" /><br />
+    <button type="button">Add</button><br />
+    <div id="d1"></div>
+    <div id="d2"></div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
+    <script>
+        // ready function is used to check the DOM rediness
+        $(document).ready(function () {
+            $("button").click(function () {
+                var a = parseInt($("#n1").val());  // .value
+                var b = parseInt($("#n2").val());
+                var c = a + b;
+                $("#n3").val(c);
+                // display data on the html tags /element -> innerHTML
+                $("#d1").text("Addition is" + c);  // only use to reder plain text
+                $("#d2").html("<b>Addition is </b>" + c);   // use to render text + html tag
+            });
+        });
+    </script>
+</body>
+</html>

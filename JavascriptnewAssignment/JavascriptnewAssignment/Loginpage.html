@@ -32,6 +32,23 @@
             </td>
         </tr>
     </table>
+    <script>
+        function log() {
+            var Username = document.getElementById("username").value;
+            var password = document.getElementById("password").value;
+            var Username= localStorage.getItem("text");
+            var passs = localStorage.getItem("Password");
+            if (UserId === Uid && password === passs) {
+                alert("Log In Successful");
+            }
+            else {
+                alert("Log In failed");
+            }
+
+        }
+
+    </script>
+
 
 </body>
 </html>

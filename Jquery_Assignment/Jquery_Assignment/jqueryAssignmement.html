@@ -1,0 +1,126 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        p {
+            background: pink;
+            border: 1px solid;
+            height: 100px;
+        }
+        ul {
+            background: pink;
+            border: 2px solid brown;
+            color: purple;
+            
+        }
+    </style>
+</head>
+<body>
+    <p>
+        jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
+
+        Other Related
+
+    </p>
+
+
+    <br />
+    <p1 id="p1">Welcome.....</p1>
+
+    <ul>
+        <li>orange</li>
+        <li>pink</li>
+        <li>yellow</li>
+        <li>black</li>
+
+    </ul>
+    <input type="button" id="b1" value="Show" />
+    <input type="button" id="b2" value="Hide" />
+    <input type="button" id="b3" value="append" />
+    <input type="button" id="b4" value="prepend" />
+    <input type="button" id="b5" value="sortable" />
+    <input type="button" id="b6" value="draggable" />
+    <input type="button" id="b9" value="callback" />
+    <input type="button" id="b7" value="slidedown" />
+    <input type="button" id="b8" value="slideup" />
+
+    <input type="button" id="b10" value="chaining" />
+
+    <input type="button" id="b11" value="Toggle" />
+    <input type="button" id="b12" value="css" />
+    <button>Start Animation</button>
+    <div style="background:blue;height:100px;width:100px;position:absolute;"></div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
+    <script>
+        //show
+        $(document).ready(function () {
+            $("#b1").click(function () {
+                $("ul").show("bounce", 2000);
+            });
+            //hide
+            $("#b2").click(function () {
+                $("ul").hide("highlight", 1500);
+            });
+            //append
+            $("#b3").click(function () {
+                $("ul").append("purple");
+            });
+            //prepend
+            $("#b4").click(function () {
+                $("ul").prepend("white");
+            });
+
+            //sortable
+            $("#b5").click(function () {
+                $("ul").sortable();
+            });
+            //dragable
+            $("#b6").click(function () {
+                $("ul").draggable();
+            });
+            //slidedown
+            $("#b7").click(function () {
+                $("ul").slideDown("tranfer",3000);
+            });
+            //slipeup
+            $("#b8").click(function () {
+                $("ul").slideUp("slow");
+            });
+             //animate
+            //$("button").click(function () {
+            //    $("div").animate({ left: '250px' });
+            $("button").click(function () {
+                $("div").animate({
+                    left: '250px',
+                    height: '+=150px',
+                    width: '+=150px'
+                });
+            });
+            //callback
+            $("#b9").click(function () {
+                $("ul").hide("slow", function () {
+                    alert("The paragraph is now hidden");
+                });
+            });
+            //chaining
+            $("#b10").click(function () {
+                $("p1").css("color", "red")
+                    .slideUp(2000)
+                    .slideDown(2000);
+            });
+            //toggle
+            $("#b11").click(function () {
+                $("ul").toggle("scale",2000);
+            });
+            //css
+            $("#b12").click(function () {
+                $("ul").css("background-color", "yellow");
+            });
+        });
+    </script>
+</body>
+</html>
